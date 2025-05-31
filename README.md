@@ -123,15 +123,3 @@ Include a features roadmap
 
 Add a demo link if deployed online
 
-Would you like me to:
-
-Provide a more detailed deployment guide?
-
-Add a contributing guide section?
-
-Include specific instructions for Gmail setup?
-
-Add any other specific sections to the README?
-
-New chat
-Message DeepSeek
